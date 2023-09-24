@@ -1,4 +1,4 @@
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720093600_0039_D.JPG
+EXIF data pro fotografii: DJI_20230720093607_0042_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -7,14 +7,1064 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:36:00
+Image DateTime: 2023:07:20 09:36:07
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 13049/1250]
+GPS GPSLatitude: [50, 2, 105231/10000]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 17141/2000]
+GPS GPSLongitude: [15, 15, 82527/10000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277887/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 25631
+EXIF ExposureTime: 1/500
+EXIF FNumber: 4
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:36:07
+EXIF DateTimeDigitized: 2023:07:20 09:36:07
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 4
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Cloudy weather
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720093734_0081_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:37:34
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 104801/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 23033/2500]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277871/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 24763
+EXIF ExposureTime: 1/500
+EXIF FNumber: 16/5
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 110
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:37:34
+EXIF DateTimeDigitized: 2023:07:20 09:37:34
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 84/25
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Cloudy weather
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720093812_0098_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:38:12
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 54053/5000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 2187/250]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277849/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 26162
+EXIF ExposureTime: 1/500
+EXIF FNumber: 4
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 110
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:38:12
+EXIF DateTimeDigitized: 2023:07:20 09:38:12
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 4
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720093815_0099_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:38:15
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 108361/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 2161/250]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277887/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 26274
+EXIF ExposureTime: 1/500
+EXIF FNumber: 9/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:38:15
+EXIF DateTimeDigitized: 2023:07:20 09:38:15
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 217/50
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720093824_0103_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:38:24
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 54729/5000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 5141/625]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277853/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 26558
+EXIF ExposureTime: 1/500
+EXIF FNumber: 9/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:38:24
+EXIF DateTimeDigitized: 2023:07:20 09:38:24
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 217/50
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720093841_0111_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:38:41
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 111631/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 18467/2500]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277879/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 28408
+EXIF ExposureTime: 1/500
+EXIF FNumber: 9/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:38:41
+EXIF DateTimeDigitized: 2023:07:20 09:38:41
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 217/50
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720093853_0116_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:38:53
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 113001/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 68637/10000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277873/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 29197
+EXIF ExposureTime: 1/500
+EXIF FNumber: 9/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:38:53
+EXIF DateTimeDigitized: 2023:07:20 09:38:53
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 217/50
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720093917_0127_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:39:17
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 11403/1000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 72667/10000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 55571/200
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 28831
+EXIF ExposureTime: 1/500
+EXIF FNumber: 9/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:39:17
+EXIF DateTimeDigitized: 2023:07:20 09:39:17
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 217/50
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720093951_0142_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:39:51
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 109977/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 44177/5000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 34734/125
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 26834
+EXIF ExposureTime: 1/500
+EXIF FNumber: 7/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:39:51
+EXIF DateTimeDigitized: 2023:07:20 09:39:51
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 361/100
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720094013_0152_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:40:13
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 107257/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 12349/1250]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277857/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 25644
+EXIF ExposureTime: 1/500
+EXIF FNumber: 16/5
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:40:13
+EXIF DateTimeDigitized: 2023:07:20 09:40:13
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 84/25
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Cloudy weather
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720094045_0166_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:40:45
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 107853/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 52209/5000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277909/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 29193
+EXIF ExposureTime: 1/500
+EXIF FNumber: 4
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:40:45
+EXIF DateTimeDigitized: 2023:07:20 09:40:45
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 4
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720094100_0173_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:41:00
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 21957/2000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 48527/5000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 138947/500
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 27771
+EXIF ExposureTime: 1/500
+EXIF FNumber: 14/5
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:41:00
+EXIF DateTimeDigitized: 2023:07:20 09:41:00
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 297/100
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720094136_0189_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:41:36
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 114139/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 40129/5000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 2223/8
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 27191
+EXIF ExposureTime: 1/500
+EXIF FNumber: 7/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:41:36
+EXIF DateTimeDigitized: 2023:07:20 09:41:36
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 361/100
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720094221_0209_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:42:21
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 59667/5000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 6811/1000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 34733/125
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 26672
+EXIF ExposureTime: 1/500
+EXIF FNumber: 4
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:42:21
+EXIF DateTimeDigitized: 2023:07:20 09:42:21
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 4
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720094333_0241_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:43:33
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 1383/125]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 5089/500]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 277861/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 29131
+EXIF ExposureTime: 1/500
+EXIF FNumber: 14/5
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 150
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:43:33
+EXIF DateTimeDigitized: 2023:07:20 09:43:33
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 297/100
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720094400_0253_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:44:00
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 26863/2500]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 114383/10000]
 GPS GPSAltitudeRef: 0
 GPS GPSAltitude: 277883/1000
 GPS GPSStatus: A
@@ -27,89 +1077,18 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 25223
+Thumbnail JPEGInterchangeFormatLength: 32069
 EXIF ExposureTime: 1/500
 EXIF FNumber: 14/5
 EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
+EXIF ISOSpeedRatings: 120
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:36:00
-EXIF DateTimeDigitized: 2023:07:20 09:36:00
+EXIF DateTimeOriginal: 2023:07:20 09:44:00
+EXIF DateTimeDigitized: 2023:07:20 09:44:00
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
 EXIF ApertureValue: 297/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Cloudy weather
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720093710_0070_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:37:10
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 107799/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 80601/10000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 277837/1000
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 27365
-EXIF ExposureTime: 1/500
-EXIF FNumber: 9/2
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:37:10
-EXIF DateTimeDigitized: 2023:07:20 09:37:10
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 217/50
 EXIF ExposureBiasValue: 0
 EXIF MaxApertureValue: 297/100
 EXIF SubjectDistance: 0
@@ -139,8 +1118,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720093801_0093_D.JPG
+EXIF data pro fotografii: DJI_20230720094511_0285_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -149,16 +1127,16 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:38:01
+Image DateTime: 2023:07:20 09:45:11
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 13343/1250]
+GPS GPSLatitude: [50, 2, 58621/5000]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 92759/10000]
+GPS GPSLongitude: [15, 15, 84261/10000]
 GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 138959/500
+GPS GPSAltitude: 277879/1000
 GPS GPSStatus: A
 GPS GPSMapDatum: WGS-84
 Image GPSInfo: 734
@@ -169,23 +1147,23 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 25096
+Thumbnail JPEGInterchangeFormatLength: 29119
 EXIF ExposureTime: 1/500
-EXIF FNumber: 14/5
+EXIF FNumber: 5
 EXIF ExposureProgram: Shutter Priority
 EXIF ISOSpeedRatings: 100
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:38:01
-EXIF DateTimeDigitized: 2023:07:20 09:38:01
+EXIF DateTimeOriginal: 2023:07:20 09:45:11
+EXIF DateTimeDigitized: 2023:07:20 09:45:11
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 297/100
+EXIF ApertureValue: 116/25
 EXIF ExposureBiasValue: 0
 EXIF MaxApertureValue: 297/100
 EXIF SubjectDistance: 0
 EXIF MeteringMode: Average
-EXIF LightSource: Cloudy weather
+EXIF LightSource: Fluorescent
 EXIF Flash: Flash did not fire
 EXIF FocalLength: 1229/100
 EXIF FlashPixVersion: 0100
@@ -210,8 +1188,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720093859_0119_D.JPG
+EXIF data pro fotografii: DJI_20230720094516_0287_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -220,85 +1197,14 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:38:59
+Image DateTime: 2023:07:20 09:45:16
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 114301/10000]
+GPS GPSLatitude: [50, 2, 117803/10000]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 16499/2500]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 277877/1000
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 26540
-EXIF ExposureTime: 1/500
-EXIF FNumber: 71/10
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:38:59
-EXIF DateTimeDigitized: 2023:07:20 09:38:59
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 283/50
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720094051_0169_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:40:51
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 108723/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 101233/10000]
+GPS GPSLongitude: [15, 15, 20553/2500]
 GPS GPSAltitudeRef: 0
 GPS GPSAltitude: 69469/250
 GPS GPSStatus: A
@@ -311,23 +1217,23 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 27569
+Thumbnail JPEGInterchangeFormatLength: 29055
 EXIF ExposureTime: 1/500
-EXIF FNumber: 9/2
+EXIF FNumber: 5
 EXIF ExposureProgram: Shutter Priority
 EXIF ISOSpeedRatings: 100
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:40:51
-EXIF DateTimeDigitized: 2023:07:20 09:40:51
+EXIF DateTimeOriginal: 2023:07:20 09:45:16
+EXIF DateTimeDigitized: 2023:07:20 09:45:16
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 217/50
+EXIF ApertureValue: 116/25
 EXIF ExposureBiasValue: 0
 EXIF MaxApertureValue: 297/100
 EXIF SubjectDistance: 0
 EXIF MeteringMode: Average
-EXIF LightSource: Daylight
+EXIF LightSource: Fluorescent
 EXIF Flash: Flash did not fire
 EXIF FocalLength: 1229/100
 EXIF FlashPixVersion: 0100
@@ -352,8 +1258,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720094156_0198_D.JPG
+EXIF data pro fotografii: DJI_20230720094527_0292_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -362,16 +1267,16 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:41:56
+Image DateTime: 2023:07:20 09:45:27
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 11659/1000]
+GPS GPSLatitude: [50, 2, 7447/625]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 35423/5000]
+GPS GPSLongitude: [15, 15, 7697/1000]
 GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 277867/1000
+GPS GPSAltitude: 138943/500
 GPS GPSStatus: A
 GPS GPSMapDatum: WGS-84
 Image GPSInfo: 734
@@ -382,23 +1287,23 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 27717
+Thumbnail JPEGInterchangeFormatLength: 27663
 EXIF ExposureTime: 1/500
-EXIF FNumber: 16/5
+EXIF FNumber: 5
 EXIF ExposureProgram: Shutter Priority
 EXIF ISOSpeedRatings: 110
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:41:56
-EXIF DateTimeDigitized: 2023:07:20 09:41:56
+EXIF DateTimeOriginal: 2023:07:20 09:45:27
+EXIF DateTimeDigitized: 2023:07:20 09:45:27
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 84/25
+EXIF ApertureValue: 116/25
 EXIF ExposureBiasValue: 0
 EXIF MaxApertureValue: 297/100
 EXIF SubjectDistance: 0
 EXIF MeteringMode: Average
-EXIF LightSource: Daylight
+EXIF LightSource: Fluorescent
 EXIF Flash: Flash did not fire
 EXIF FocalLength: 1229/100
 EXIF FlashPixVersion: 0100
@@ -423,150 +1328,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720094208_0203_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:42:08
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 58973/5000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 32803/5000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 277867/1000
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 27360
-EXIF ExposureTime: 1/500
-EXIF FNumber: 71/10
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:42:08
-EXIF DateTimeDigitized: 2023:07:20 09:42:08
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 283/50
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720094315_0233_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:43:15
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 56431/5000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 93327/10000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 138929/500
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 27073
-EXIF ExposureTime: 1/500
-EXIF FNumber: 14/5
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:43:15
-EXIF DateTimeDigitized: 2023:07:20 09:43:15
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 297/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720094529_0293_D.JPG
+EXIF data pro fotografii: DJI_20230720094529_0293_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -636,8 +1398,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720094630_0320_D.JPG
+EXIF data pro fotografii: DJI_20230720094534_0295_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -646,16 +1407,16 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:46:30
+Image DateTime: 2023:07:20 09:45:34
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 1458/125]
+GPS GPSLatitude: [50, 2, 2999/250]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 94761/10000]
+GPS GPSLongitude: [15, 15, 73799/10000]
 GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 277867/1000
+GPS GPSAltitude: 277857/1000
 GPS GPSStatus: A
 GPS GPSMapDatum: WGS-84
 Image GPSInfo: 734
@@ -666,157 +1427,15 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 27457
+Thumbnail JPEGInterchangeFormatLength: 27704
 EXIF ExposureTime: 1/500
-EXIF FNumber: 5
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 110
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:46:30
-EXIF DateTimeDigitized: 2023:07:20 09:46:30
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 116/25
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720094704_0335_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:47:04
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 7034/625]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 110603/10000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 277863/1000
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 31873
-EXIF ExposureTime: 1/500
-EXIF FNumber: 16/5
+EXIF FNumber: 4
 EXIF ExposureProgram: Shutter Priority
 EXIF ISOSpeedRatings: 100
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:47:04
-EXIF DateTimeDigitized: 2023:07:20 09:47:04
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 84/25
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720094757_0359_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:47:57
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 119291/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 92581/10000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 69467/250
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 28022
-EXIF ExposureTime: 1/500
-EXIF FNumber: 4
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 110
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:47:57
-EXIF DateTimeDigitized: 2023:07:20 09:47:57
+EXIF DateTimeOriginal: 2023:07:20 09:45:34
+EXIF DateTimeDigitized: 2023:07:20 09:45:34
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
 EXIF ApertureValue: 4
@@ -849,8 +1468,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720095517_0044_D.JPG
+EXIF data pro fotografii: DJI_20230720094616_0314_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -859,16 +1477,16 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:55:17
+Image DateTime: 2023:07:20 09:46:16
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 24697/2000]
+GPS GPSLatitude: [50, 2, 118283/10000]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 3541/500]
+GPS GPSLongitude: [15, 15, 44253/5000]
 GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 133391/500
+GPS GPSAltitude: 277871/1000
 GPS GPSStatus: A
 GPS GPSMapDatum: WGS-84
 Image GPSInfo: 734
@@ -879,15 +1497,15 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 26792
+Thumbnail JPEGInterchangeFormatLength: 29025
 EXIF ExposureTime: 1/500
 EXIF FNumber: 5
 EXIF ExposureProgram: Shutter Priority
 EXIF ISOSpeedRatings: 110
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:55:17
-EXIF DateTimeDigitized: 2023:07:20 09:55:17
+EXIF DateTimeOriginal: 2023:07:20 09:46:16
+EXIF DateTimeDigitized: 2023:07:20 09:46:16
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
 EXIF ApertureValue: 116/25
@@ -895,7 +1513,7 @@ EXIF ExposureBiasValue: 0
 EXIF MaxApertureValue: 297/100
 EXIF SubjectDistance: 0
 EXIF MeteringMode: Average
-EXIF LightSource: Daylight
+EXIF LightSource: Fluorescent
 EXIF Flash: Flash did not fire
 EXIF FocalLength: 1229/100
 EXIF FlashPixVersion: 0100
@@ -920,8 +1538,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720095610_0059_D.JPG
+EXIF data pro fotografii: DJI_20230720094706_0336_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -930,16 +1547,16 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:56:10
+Image DateTime: 2023:07:20 09:47:06
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 12269/1000]
+GPS GPSLatitude: [50, 2, 449/40]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 78229/10000]
+GPS GPSLongitude: [15, 15, 111649/10000]
 GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 260027/1000
+GPS GPSAltitude: 277871/1000
 GPS GPSStatus: A
 GPS GPSMapDatum: WGS-84
 Image GPSInfo: 734
@@ -950,228 +1567,15 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 28039
-EXIF ExposureTime: 1/500
-EXIF FNumber: 63/10
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:56:10
-EXIF DateTimeDigitized: 2023:07:20 09:56:10
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 531/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720095749_0082_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 09:57:49
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 28439/2500]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 21123/2500]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 51973/200
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 30677
-EXIF ExposureTime: 1/500
-EXIF FNumber: 5
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 09:57:49
-EXIF DateTimeDigitized: 2023:07:20 09:57:49
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 116/25
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720100408_0020_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:04:08
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 50199/5000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 4897/625]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 129471/500
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 26941
-EXIF ExposureTime: 1/500
-EXIF FNumber: 22/5
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:04:08
-EXIF DateTimeDigitized: 2023:07:20 10:04:08
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 107/25
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720100606_0052_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:06:06
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 56661/5000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 11707/1250]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 130951/500
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 31005
+Thumbnail JPEGInterchangeFormatLength: 32516
 EXIF ExposureTime: 1/500
 EXIF FNumber: 14/5
 EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 160
+EXIF ISOSpeedRatings: 100
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:06:06
-EXIF DateTimeDigitized: 2023:07:20 10:06:06
+EXIF DateTimeOriginal: 2023:07:20 09:47:06
+EXIF DateTimeDigitized: 2023:07:20 09:47:06
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
 EXIF ApertureValue: 297/100
@@ -1179,7 +1583,7 @@ EXIF ExposureBiasValue: 0
 EXIF MaxApertureValue: 297/100
 EXIF SubjectDistance: 0
 EXIF MeteringMode: Average
-EXIF LightSource: Cloudy weather
+EXIF LightSource: Daylight
 EXIF Flash: Flash did not fire
 EXIF FocalLength: 1229/100
 EXIF FlashPixVersion: 0100
@@ -1204,8 +1608,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720100853_0091_D.JPG
+EXIF data pro fotografii: DJI_20230720094719_0342_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -1214,16 +1617,16 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:08:53
+Image DateTime: 2023:07:20 09:47:19
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 11201/1000]
+GPS GPSLatitude: [50, 2, 57207/5000]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 83683/10000]
+GPS GPSLongitude: [15, 15, 55573/5000]
 GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 265003/1000
+GPS GPSAltitude: 34739/125
 GPS GPSStatus: A
 GPS GPSMapDatum: WGS-84
 Image GPSInfo: 734
@@ -1234,18 +1637,158 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 28116
+Thumbnail JPEGInterchangeFormatLength: 32809
 EXIF ExposureTime: 1/500
-EXIF FNumber: 63/10
+EXIF FNumber: 4
 EXIF ExposureProgram: Shutter Priority
 EXIF ISOSpeedRatings: 110
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:08:53
-EXIF DateTimeDigitized: 2023:07:20 10:08:53
+EXIF DateTimeOriginal: 2023:07:20 09:47:19
+EXIF DateTimeDigitized: 2023:07:20 09:47:19
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 531/100
+EXIF ApertureValue: 4
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720094804_0362_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:48:04
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 7506/625]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 11179/1250]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 34734/125
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 28072
+EXIF ExposureTime: 1/500
+EXIF FNumber: 7/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:48:04
+EXIF DateTimeDigitized: 2023:07:20 09:48:04
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 361/100
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720094911_0392_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:49:11
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 14807/1250]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 25997/2500]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 34732/125
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 32287
+EXIF ExposureTime: 1/500
+EXIF FNumber: 16/5
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:49:11
+EXIF DateTimeDigitized: 2023:07:20 09:49:11
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 84/25
 EXIF ExposureBiasValue: 0
 EXIF MaxApertureValue: 297/100
 EXIF SubjectDistance: 0
@@ -1275,8 +1818,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101005_0109_D.JPG
+EXIF data pro fotografii: DJI_20230720094936_0403_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -1285,16 +1827,16 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:10:05
+Image DateTime: 2023:07:20 09:49:36
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 113273/10000]
+GPS GPSLatitude: [50, 2, 118971/10000]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 94221/10000]
+GPS GPSLongitude: [15, 15, 21903/2000]
 GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 66383/250
+GPS GPSAltitude: 138941/500
 GPS GPSStatus: A
 GPS GPSMapDatum: WGS-84
 Image GPSInfo: 734
@@ -1305,15 +1847,365 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 29465
+Thumbnail JPEGInterchangeFormatLength: 32314
+EXIF ExposureTime: 1/500
+EXIF FNumber: 4
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 110
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:49:36
+EXIF DateTimeDigitized: 2023:07:20 09:49:36
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 4
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720095332_0015_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:53:32
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 62687/5000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 98443/10000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 34542/125
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 29554
+EXIF ExposureTime: 1/500
+EXIF FNumber: 9/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:53:32
+EXIF DateTimeDigitized: 2023:07:20 09:53:32
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 217/50
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Fluorescent
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720095343_0020_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:53:43
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 126817/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 9123/1000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 69087/250
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 28276
+EXIF ExposureTime: 1/500
+EXIF FNumber: 9/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:53:43
+EXIF DateTimeDigitized: 2023:07:20 09:53:43
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 217/50
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720095352_0024_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:53:52
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 125223/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 8373/1000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 276177/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 28146
+EXIF ExposureTime: 1/500
+EXIF FNumber: 4
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 100
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:53:52
+EXIF DateTimeDigitized: 2023:07:20 09:53:52
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 4
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720095357_0026_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 09:53:57
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 124381/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 20303/2500]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 276169/1000
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 27430
+EXIF ExposureTime: 1/500
+EXIF FNumber: 9/2
+EXIF ExposureProgram: Shutter Priority
+EXIF ISOSpeedRatings: 110
+EXIF SensitivityType: Recommended Exposure Index
+EXIF ExifVersion: 0230
+EXIF DateTimeOriginal: 2023:07:20 09:53:57
+EXIF DateTimeDigitized: 2023:07:20 09:53:57
+EXIF ComponentsConfiguration: YCbCr
+EXIF ShutterSpeedValue: 44829/5000
+EXIF ApertureValue: 217/50
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 297/100
+EXIF SubjectDistance: 0
+EXIF MeteringMode: Average
+EXIF LightSource: Daylight
+EXIF Flash: Flash did not fire
+EXIF FocalLength: 1229/100
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 5280
+EXIF ExifImageLength: 3956
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+EXIF InteroperabilityOffset: 848
+EXIF FileSource: Digital Camera
+EXIF SceneType: Directly Photographed
+EXIF CustomRendered: Normal
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF FocalLengthIn35mmFilm: 24
+EXIF SceneCaptureType: Standard
+EXIF GainControl: None
+EXIF Contrast: Normal
+EXIF Saturation: Normal
+EXIF Sharpness: Normal
+EXIF DeviceSettingDescription: [0, 0, 0, 0]
+EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
+EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
+EXIF data pro fotografii: DJI_20230720100512_0036_D.JPG
+Image ImageDescription: default
+Image Make: DJI
+Image Model: M3M
+Image Orientation: Horizontal (normal)
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: 10.12.05.45
+Image DateTime: 2023:07:20 10:05:12
+Image YCbCrPositioning: Co-sited
+Image ExifOffset: 260
+GPS GPSVersionID: [2, 3, 0, 0]
+GPS GPSLatitudeRef: N
+GPS GPSLatitude: [50, 2, 112199/10000]
+GPS GPSLongitudeRef: E
+GPS GPSLongitude: [15, 15, 90243/10000]
+GPS GPSAltitudeRef: 0
+GPS GPSAltitude: 26217/100
+GPS GPSStatus: A
+GPS GPSMapDatum: WGS-84
+Image GPSInfo: 734
+Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
+Thumbnail Compression: JPEG
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1338
+Thumbnail JPEGInterchangeFormatLength: 26748
 EXIF ExposureTime: 1/500
 EXIF FNumber: 63/10
 EXIF ExposureProgram: Shutter Priority
 EXIF ISOSpeedRatings: 110
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:10:05
-EXIF DateTimeDigitized: 2023:07:20 10:10:05
+EXIF DateTimeOriginal: 2023:07:20 10:05:12
+EXIF DateTimeDigitized: 2023:07:20 10:05:12
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
 EXIF ApertureValue: 531/100
@@ -1346,8 +2238,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101012_0112_D.JPG
+EXIF data pro fotografii: DJI_20230720100859_0094_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -1356,16 +2247,16 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:10:12
+Image DateTime: 2023:07:20 10:08:59
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 113351/10000]
+GPS GPSLatitude: [50, 2, 4479/400]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 94181/10000]
+GPS GPSLongitude: [15, 15, 41813/5000]
 GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 66371/250
+GPS GPSAltitude: 66261/250
 GPS GPSStatus: A
 GPS GPSMapDatum: WGS-84
 Image GPSInfo: 734
@@ -1376,15 +2267,15 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 28219
+Thumbnail JPEGInterchangeFormatLength: 28922
 EXIF ExposureTime: 1/500
 EXIF FNumber: 5
 EXIF ExposureProgram: Shutter Priority
 EXIF ISOSpeedRatings: 100
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:10:12
-EXIF DateTimeDigitized: 2023:07:20 10:10:12
+EXIF DateTimeOriginal: 2023:07:20 10:08:59
+EXIF DateTimeDigitized: 2023:07:20 10:08:59
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
 EXIF ApertureValue: 116/25
@@ -1417,8 +2308,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101014_0113_D.JPG
+EXIF data pro fotografii: DJI_20230720100959_0106_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -1427,16 +2317,16 @@ Image XResolution: 72
 Image YResolution: 72
 Image ResolutionUnit: Pixels/Inch
 Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:10:14
+Image DateTime: 2023:07:20 10:09:59
 Image YCbCrPositioning: Co-sited
 Image ExifOffset: 260
 GPS GPSVersionID: [2, 3, 0, 0]
 GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 2267/200]
+GPS GPSLatitude: [50, 2, 113247/10000]
 GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 23541/2500]
+GPS GPSLongitude: [15, 15, 94197/10000]
 GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 265503/1000
+GPS GPSAltitude: 265479/1000
 GPS GPSStatus: A
 GPS GPSMapDatum: WGS-84
 Image GPSInfo: 734
@@ -1447,18 +2337,18 @@ Thumbnail XResolution: 72
 Thumbnail YResolution: 72
 Thumbnail ResolutionUnit: Pixels/Inch
 Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 28272
+Thumbnail JPEGInterchangeFormatLength: 26609
 EXIF ExposureTime: 1/500
-EXIF FNumber: 28/5
+EXIF FNumber: 71/10
 EXIF ExposureProgram: Shutter Priority
 EXIF ISOSpeedRatings: 100
 EXIF SensitivityType: Recommended Exposure Index
 EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:10:14
-EXIF DateTimeDigitized: 2023:07:20 10:10:14
+EXIF DateTimeOriginal: 2023:07:20 10:09:59
+EXIF DateTimeDigitized: 2023:07:20 10:09:59
 EXIF ComponentsConfiguration: YCbCr
 EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 497/100
+EXIF ApertureValue: 283/50
 EXIF ExposureBiasValue: 0
 EXIF MaxApertureValue: 297/100
 EXIF SubjectDistance: 0
@@ -1488,363 +2378,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101016_0114_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:10:16
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 113331/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 23539/2500]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 265513/1000
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 28700
-EXIF ExposureTime: 1/500
-EXIF FNumber: 28/5
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:10:16
-EXIF DateTimeDigitized: 2023:07:20 10:10:16
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 497/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101019_0115_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:10:19
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 113309/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 2353/250]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 265537/1000
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 27626
-EXIF ExposureTime: 1/500
-EXIF FNumber: 28/5
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:10:19
-EXIF DateTimeDigitized: 2023:07:20 10:10:19
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 497/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Fluorescent
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101021_0116_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:10:21
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 113277/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 94107/10000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 66389/250
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 27367
-EXIF ExposureTime: 1/500
-EXIF FNumber: 28/5
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 110
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:10:21
-EXIF DateTimeDigitized: 2023:07:20 10:10:21
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 497/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101023_0117_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:10:23
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 113277/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 47063/5000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 33196/125
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 26648
-EXIF ExposureTime: 1/500
-EXIF FNumber: 28/5
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:10:23
-EXIF DateTimeDigitized: 2023:07:20 10:10:23
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 497/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101025_0118_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:10:25
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 113273/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 9419/1000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 33194/125
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 26443
-EXIF ExposureTime: 1/500
-EXIF FNumber: 63/10
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 110
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:10:25
-EXIF DateTimeDigitized: 2023:07:20 10:10:25
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 531/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101028_0119_D.JPG
+EXIF data pro fotografii: DJI_20230720101028_0119_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -1914,576 +2448,7 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101110_0120_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:11:10
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 25189/2000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 40803/5000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 66329/250
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 26096
-EXIF ExposureTime: 1/500
-EXIF FNumber: 9
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 110
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:11:10
-EXIF DateTimeDigitized: 2023:07:20 10:11:10
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 317/50
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Cloudy weather
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101112_0121_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:11:12
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 125937/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 204/25]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 265379/1000
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 26096
-EXIF ExposureTime: 1/500
-EXIF FNumber: 9
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:11:12
-EXIF DateTimeDigitized: 2023:07:20 10:11:12
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 317/50
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101114_0122_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:11:14
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 125919/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 40771/5000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 66347/250
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 25875
-EXIF ExposureTime: 1/500
-EXIF FNumber: 9
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:11:14
-EXIF DateTimeDigitized: 2023:07:20 10:11:14
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 317/50
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101116_0123_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:11:16
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 125921/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 20389/2500]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 33169/125
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 25885
-EXIF ExposureTime: 1/500
-EXIF FNumber: 9
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 110
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:11:16
-EXIF DateTimeDigitized: 2023:07:20 10:11:16
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 317/50
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Cloudy weather
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101118_0124_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:11:18
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 15739/1250]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 40783/5000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 265319/1000
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 25617
-EXIF ExposureTime: 1/500
-EXIF FNumber: 8
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:11:18
-EXIF DateTimeDigitized: 2023:07:20 10:11:18
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 6
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101121_0125_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:11:21
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 125897/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 81541/10000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 132671/500
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 25844
-EXIF ExposureTime: 1/500
-EXIF FNumber: 71/10
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 110
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:11:21
-EXIF DateTimeDigitized: 2023:07:20 10:11:21
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 283/50
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Cloudy weather
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101123_0126_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:11:23
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 7868/625]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 81521/10000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 33171/125
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 25582
-EXIF ExposureTime: 1/500
-EXIF FNumber: 63/10
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 100
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:11:23
-EXIF DateTimeDigitized: 2023:07:20 10:11:23
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 531/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Cloudy weather
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101125_0127_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:11:25
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 125881/10000]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 20373/2500]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 132713/500
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 25691
-EXIF ExposureTime: 1/500
-EXIF FNumber: 63/10
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 110
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:11:25
-EXIF DateTimeDigitized: 2023:07:20 10:11:25
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 531/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Cloudy weather
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101127_0128_D.JPG
+EXIF data pro fotografii: DJI_20230720101127_0128_D.JPG
 Image ImageDescription: default
 Image Make: DJI
 Image Model: M3M
@@ -2553,75 +2518,3 @@ EXIF Sharpness: Normal
 EXIF DeviceSettingDescription: [0, 0, 0, 0]
 EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
 EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
-EXIF data pro fotografii: D:\skola\diplomka\TriDvory2007-20230731T071121Z-001\TriDvory2007\DJI_20230720101130_0129_D.JPG
-Image ImageDescription: default
-Image Make: DJI
-Image Model: M3M
-Image Orientation: Horizontal (normal)
-Image XResolution: 72
-Image YResolution: 72
-Image ResolutionUnit: Pixels/Inch
-Image Software: 10.12.05.45
-Image DateTime: 2023:07:20 10:11:30
-Image YCbCrPositioning: Co-sited
-Image ExifOffset: 260
-GPS GPSVersionID: [2, 3, 0, 0]
-GPS GPSLatitudeRef: N
-GPS GPSLatitude: [50, 2, 7868/625]
-GPS GPSLongitudeRef: E
-GPS GPSLongitude: [15, 15, 16293/2000]
-GPS GPSAltitudeRef: 0
-GPS GPSAltitude: 265527/1000
-GPS GPSStatus: A
-GPS GPSMapDatum: WGS-84
-Image GPSInfo: 734
-Image XPComment: [48, 0, 46, 0, 57, 0, 46, 0, 49, 0, 52, 0, 50, 0, 0, 0, 0, 0, 0, 0, ... ]
-Image XPKeywords: [115, 0, 105, 0, 110, 0, 103, 0, 108, 0, 101, 0]
-Thumbnail Compression: JPEG
-Thumbnail XResolution: 72
-Thumbnail YResolution: 72
-Thumbnail ResolutionUnit: Pixels/Inch
-Thumbnail JPEGInterchangeFormat: 1338
-Thumbnail JPEGInterchangeFormatLength: 25739
-EXIF ExposureTime: 1/500
-EXIF FNumber: 63/10
-EXIF ExposureProgram: Shutter Priority
-EXIF ISOSpeedRatings: 110
-EXIF SensitivityType: Recommended Exposure Index
-EXIF ExifVersion: 0230
-EXIF DateTimeOriginal: 2023:07:20 10:11:30
-EXIF DateTimeDigitized: 2023:07:20 10:11:30
-EXIF ComponentsConfiguration: YCbCr
-EXIF ShutterSpeedValue: 44829/5000
-EXIF ApertureValue: 531/100
-EXIF ExposureBiasValue: 0
-EXIF MaxApertureValue: 297/100
-EXIF SubjectDistance: 0
-EXIF MeteringMode: Average
-EXIF LightSource: Daylight
-EXIF Flash: Flash did not fire
-EXIF FocalLength: 1229/100
-EXIF FlashPixVersion: 0100
-EXIF ColorSpace: sRGB
-EXIF ExifImageWidth: 5280
-EXIF ExifImageLength: 3956
-Interoperability InteroperabilityIndex: R98
-Interoperability InteroperabilityVersion: [48, 49, 48, 48]
-EXIF InteroperabilityOffset: 848
-EXIF FileSource: Digital Camera
-EXIF SceneType: Directly Photographed
-EXIF CustomRendered: Normal
-EXIF ExposureMode: Auto Exposure
-EXIF WhiteBalance: Auto
-EXIF DigitalZoomRatio: 1
-EXIF FocalLengthIn35mmFilm: 24
-EXIF SceneCaptureType: Standard
-EXIF GainControl: None
-EXIF Contrast: Normal
-EXIF Saturation: Normal
-EXIF Sharpness: Normal
-EXIF DeviceSettingDescription: [0, 0, 0, 0]
-EXIF BodySerialNumber: 1581F5FKD22CM00CEY97
-EXIF LensSpecification: [6/25, 6/25, 14/5, 11]
-
