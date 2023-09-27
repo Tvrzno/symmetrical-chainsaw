@@ -1,0 +1,7 @@
+Foto_na_konverzi.py
+README.md
+setup.py
+Foto_na_konverzi.egg-info/PKG-INFO
+Foto_na_konverzi.egg-info/SOURCES.txt
+Foto_na_konverzi.egg-info/dependency_links.txt
+Foto_na_konverzi.egg-info/top_level.txt
