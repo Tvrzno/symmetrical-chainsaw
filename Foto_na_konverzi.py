@@ -25,7 +25,6 @@ if not os.path.exists(fotky_adresar):
     print(f"Adresář '{fotky_adresar}' neexistuje.")
 else:
     print(f"Zadali jste adresář s fotkami: {fotky_adresar}")
-    # Zde můžete pokračovat ve zpracování adresáře a extrakci EXIF dat
 
 relativni_cesta_exiftool = "./exiftool(-k).exe"
 
@@ -38,7 +37,7 @@ pozadovane_tagy = ['EXIF:GPSLatitude', 'EXIF:GPSLongitude', 'EXIF:GPSAltitude']
 #Funkce na výpis jen daných tagů 
 def extrahovat_exif_castecne(foto, tagy):
     tags = ''
-    with ExifToolHelper(executable = "C:\\Users\\mates\\CodeCademy\\symmetrical-chainsaw\\exiftool(-k).exe") as et:
+    with ExifToolHelper(executable = relativni_cesta_exiftool) as et:
         for d in et.get_metadata(foto):
             for tag, hodnota in d.items():
                 if tag in tagy:                 
@@ -46,7 +45,7 @@ def extrahovat_exif_castecne(foto, tagy):
     return tags
 
 # Název výstupního textového souboru
-vystupni_soubor = 'exif_gps_data.txt'
+vystupni_soubor = 'exif_gps_wgs.txt'
 
 # Otevřít textový soubor pro zápis všeho
 with open(vystupni_soubor, 'w') as soubor:
